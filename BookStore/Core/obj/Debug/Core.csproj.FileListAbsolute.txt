@@ -1,0 +1,11 @@
+D:\BookStore\BookStore\Core\bin\Debug\Core.dll.config
+D:\BookStore\BookStore\Core\bin\Debug\Core.dll
+D:\BookStore\BookStore\Core\bin\Debug\Core.pdb
+D:\BookStore\BookStore\Core\bin\Debug\EntityFramework.dll
+D:\BookStore\BookStore\Core\bin\Debug\EntityFramework.SqlServer.dll
+D:\BookStore\BookStore\Core\bin\Debug\EntityFramework.xml
+D:\BookStore\BookStore\Core\bin\Debug\EntityFramework.SqlServer.xml
+D:\BookStore\BookStore\Core\obj\Debug\Core.csprojAssemblyReference.cache
+D:\BookStore\BookStore\Core\obj\Debug\Core.csproj.CopyComplete
+D:\BookStore\BookStore\Core\obj\Debug\Core.dll
+D:\BookStore\BookStore\Core\obj\Debug\Core.pdb

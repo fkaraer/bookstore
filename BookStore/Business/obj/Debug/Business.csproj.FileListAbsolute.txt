@@ -1,0 +1,16 @@
+D:\BookStore\BookStore\Business\bin\Debug\Business.dll
+D:\BookStore\BookStore\Business\bin\Debug\Business.pdb
+D:\BookStore\BookStore\Business\bin\Debug\Core.dll
+D:\BookStore\BookStore\Business\bin\Debug\DataAccess.dll
+D:\BookStore\BookStore\Business\bin\Debug\Entities.dll
+D:\BookStore\BookStore\Business\bin\Debug\EntityFramework.dll
+D:\BookStore\BookStore\Business\bin\Debug\Core.pdb
+D:\BookStore\BookStore\Business\bin\Debug\Core.dll.config
+D:\BookStore\BookStore\Business\bin\Debug\DataAccess.pdb
+D:\BookStore\BookStore\Business\bin\Debug\DataAccess.dll.config
+D:\BookStore\BookStore\Business\bin\Debug\Entities.pdb
+D:\BookStore\BookStore\Business\bin\Debug\EntityFramework.xml
+D:\BookStore\BookStore\Business\obj\Debug\Business.csprojAssemblyReference.cache
+D:\BookStore\BookStore\Business\obj\Debug\Business.csproj.CopyComplete
+D:\BookStore\BookStore\Business\obj\Debug\Business.dll
+D:\BookStore\BookStore\Business\obj\Debug\Business.pdb
